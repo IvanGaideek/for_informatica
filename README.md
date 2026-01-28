@@ -1,5 +1,5 @@
 # for_informatica
-"""
+```
 # import turtle
 #
 # # Настройка окна и черепахи
@@ -107,4 +107,4 @@ t.end_fill()
 # Скрываем черепаху и держим окно открытым
 t.hideturtle()
 screen.mainloop()
-"""
+```
